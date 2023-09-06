@@ -22,9 +22,6 @@ This project aimed to optimize logistics and improve delivery operations by anal
 
 - **Informed Decision-Making:** The insights derived from the Tableau dashboard empowered the organization to make data-driven decisions. These decisions ranged from optimizing courier assignments to refining sales channel strategies, ultimately leading to cost savings and improved delivery performance.
 
-## Dashboard Preview
-
-![Delivery Project Dashboard Preview](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/IMAGES/delivery_dashboard_preview.png)
 
 ## Insights
 
