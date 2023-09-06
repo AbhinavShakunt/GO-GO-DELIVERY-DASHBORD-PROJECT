@@ -1,5 +1,4 @@
 # GO-GO-DELIVERY-DASHBORD-PROJECT!
-# Delivery Project Analysis
 
 ![Delivery Project Dashboard Screenshot](![Web capture_6-9-2023_235245_public tableau com](https://github.com/AbhinavShakunt/GO-GO-DELIVERY-DASHBORD-PROJECT/assets/89520262/77f9911e-6cce-4848-900f-619ca4b6dc13))
 
